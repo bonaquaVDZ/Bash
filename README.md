@@ -1,2 +1,3 @@
-# This directory was created for everything related to bash/zsh, terminal and command line.
+# Bash/Zsh/Command Prompt/Terminal
+This directory was created for everything related to bash/zsh, terminal and command line.
 Still in progress...

@@ -1,0 +1,47 @@
+
+
+EXERCISE-1
+
+Part A
+-List the content of your Home Folder
+-List all the content of  folders that strts with "S" (capital)
+( if you don't have any, choose another letter )
+-Iside your pwd. Get a list of all the files or folders that 
+has an "S" in their name
+( again, if you don't have any, choose another letter )
+
+Part B
+-Create a file "info-txt"  in your present working directory.
+-Inside "info-txt" write the long list information about
+the last 4 files listed in your pwd
+
+-----------------------------------------------------------------------------
+
+EXERCISE-2
+
+Part A
+-Create a file "hello.txt"  in your present working directory.
+-Rename it as "hello .sh"
+-Make this file executable only by the owner
+
+Part B
+-Read from imput a name of a file (invented by who is typing )
+and save it inside a variable
+-Create a file with that name using the variable 
+-Create a file with that name and the prefix "1_" attached in front of it
+
+
+
+Part C 
+
+In this Exercise we  focus on the difference between
+variable expansion and command substitution.
+Let's say that we want to record the exact time when we did
+something in the terminal.
+
+-Store the actual date and time using a variabe "important_time"
+and check it
+-Create a Variable "dd"  that execute the command "date". and 
+check it
+
+What is the difference between $imp_date  and   $dd  ?

@@ -1,0 +1,14 @@
+1. Redirect
+2. Pipe
+3. Find
+4. Grep
+5. AWK Command
+6. Sudo command
+7. Change owner
+8. Change permission
+9. Change ownership to folders
+10. Variables
+11. Command Substitution-Expansion
+12. UNIS Login file
+13. Read
+

@@ -1,0 +1,23 @@
+EXERCISE-1
+
+-Create a directory "Ex3/" inside your home folder
+-Create 3 text-files inside "Ex3" 
+-Create 3 xls-files inside "Ex3"
+-Create inside "Ex3" a directory "Stuff/"
+
+-Copy all text files in Ex3 to "Stuff"
+-Rename one xls file as "a.xls"
+-Rename one txt file as "atext.txt"
+-Rename one txt file as "btext.txt"
+
+-----------------------------------------------------------------------------
+
+EXERCISE-2
+
+-Create a directory "mydir1" in your present working directory.
+-Create 4 text-files inside your pwd.  
+-Create a copy of "mydir1" inside your pwd.
+  
+-Copy the first 2 .txt  files inside the copied folder
+-Remove both directories 
+

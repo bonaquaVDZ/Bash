@@ -1,0 +1,9 @@
+total 48
+-rw-r--r--  1 vadzimramaniuk  staff    0 Aug 26 17:37 1.txt
+-rw-r--r--  1 vadzimramaniuk  staff    0 Aug 26 17:37 2.txt
+-rwxr-xr-x@ 1 vadzimramaniuk  staff  493 Jun  6 16:48 BasicOpenPath3.sh
+-rwxr-xr-x@ 1 vadzimramaniuk  staff  643 Jun  6 14:32 BasicRead2.sh
+-rwxr-xr-x@ 1 vadzimramaniuk  staff  812 Aug 18 19:34 BasicScript1.sh
+-rwxr-xr-x@ 1 vadzimramaniuk  staff  487 Aug 26 17:37 Ex1.sh
+-rwxr-xr-x@ 1 vadzimramaniuk  staff  348 Jun  6 17:36 Ex2.sh
+-rw-r--r--@ 1 vadzimramaniuk  staff  727 Jun  6 12:33 Review.txt

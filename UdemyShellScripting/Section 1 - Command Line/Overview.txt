@@ -1,0 +1,10 @@
+1. ls - list command\
+2.ls -l and ls- la\
+3.cd - change directory\
+4.touch\
+5.move\
+6.copy\
+7.remove\
+8.* - star sign\
+9.Recursive\
+

@@ -1,0 +1,20 @@
+1. gnome-terminal
+2. sudo iftop
+3. cd Desktop/
+4. ping -c 5 static-assets.codecademy.com
+5. wget https://static-assets.codecademy.com/Courses/learn-linux/weather-offplatform-project/media.zip
+6. unzip media.zip
+7 .ls media/
+8. cd media/
+9. mkdir compressed_photos
+    mv *.jpg compressed_photos/
+10. gzip compressed_photos/*
+    OR
+    gzip -r compressed_photos/
+11. tar -cf videos.tar *.mp4 --remove-files
+    bzip2 videos.tar
+    OR
+    tar -cjf videos.tar.bz2 *.mp4 --remove-files
+12. xz "Tsunami Waves Recorded by Voyager 1.mp3"
+    OR
+    xz *.mp3

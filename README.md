@@ -1,3 +1,2 @@
-# Bash/Zsh/Command Prompt/Terminal
-This directory was created for everything related to bash/zsh, terminal and command line.
-Still in progress...
+# Bash/Terminal Playground
+A repository dedicated to my Bash scripting adventures, where I explore and experiment with different Bash projects and concepts. This folder serves as a sandbox for my Bash learning, allowing me to tinker with Bash scripts, try out new ideas, and learn Bash scripting techniques. From small scripts to more complex automation tasks, this GitHub folder is my playground for honing my Bash skills, automating tasks, and mastering Bash scripting.
